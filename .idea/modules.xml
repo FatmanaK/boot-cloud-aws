@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-cloud-aws.iml" filepath="$PROJECT_DIR$/boot-cloud-aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s3/s3.iml" filepath="$PROJECT_DIR$/s3/s3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sns/sns.iml" filepath="$PROJECT_DIR$/sns/sns.iml" />
+    </modules>
+  </component>
+</project>
